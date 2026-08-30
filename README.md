@@ -1,6 +1,6 @@
 # AI Response Evaluation Samples
 
-This repository is a small portfolio of independently created AI response evaluation cases.
+This repository contains a small collection of original AI response evaluation cases created for practice and portfolio use.
 
 I use these examples to document how I compare model outputs, identify the main quality issue, and write a concise justification for a preference decision. The focus is on practical human evaluation rather than automated benchmark scoring.
 
@@ -36,18 +36,27 @@ I do not treat a longer answer as automatically better. A concise response can b
 
 The examples in this repository cover several recurring evaluation problems:
 
-- Instruction following
-- Factuality and unsupported claims
+### Available cases
+
+- [Case 01 — Instruction Following](cases/01-instruction-following.md)
+
+- [Case 02 — Groundedness and Unsupported Scope Expansion](cases/02-factuality-and-unsupported-claims.md)
+
+ ### Planned cases
+
 - Relevance and unnecessary information
+
 - Completeness
+
 - Style and clarity
-- Close-call or tie decisions
+
+- Close-call or tie decisions 
 
 Each case includes the original task, two candidate responses, the evaluation decision, and a brief explanation of the reasoning behind that decision.
 
 ## Notes on the examples
 
-All prompts and responses in this repository are independently created for portfolio and practice purposes.
+All prompts and responses in this repository were created for portfolio and practice use.
 
 They do not contain client data, proprietary prompts, internal project guidelines, confidential task content, or material copied from paid evaluation work.
 
