@@ -60,6 +60,7 @@ I checked:
 - whether October 7 triggers a storage charge
 - what uses of the photographs are actually permitted
 - whether either answer quietly broadens a condition or permission beyond the source
+
 ## Why I chose A
 
 Response A stays within the limits of the source.
