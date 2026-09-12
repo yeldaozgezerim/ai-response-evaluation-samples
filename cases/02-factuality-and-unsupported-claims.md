@@ -55,11 +55,11 @@ Both responses are clear, and both get most of the practical details right. The 
 
 I checked:
 
-whether the oversized canvas needs approval before delivery
-when insurance coverage begins
-whether October 7 triggers a storage charge
-what uses of the photographs are actually permitted
-whether either answer quietly broadens a condition or permission beyond the source
+- whether the oversized canvas needs approval before delivery
+- when insurance coverage begins
+- whether October 7 triggers a storage charge
+- what uses of the photographs are actually permitted
+- whether either answer quietly broadens a condition or permission beyond the source
 ## Why I chose A
 
 Response A stays within the limits of the source.
